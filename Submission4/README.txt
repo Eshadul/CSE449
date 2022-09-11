@@ -8,9 +8,6 @@ Paper title: Lightweight Distributed File System For Local Networks
 Paper submission date (to workshop/conference):
 12 November 2022
 
-Paper submission ID: (received) from conference/workshop
-1341234
-
 Conference Name:
 POPL 2023 Student Research Competition (POPL 2023 SRC)
 
